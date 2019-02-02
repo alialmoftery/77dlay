@@ -1,4 +1,4 @@
-token= NTM5NTUyNTI0MjY5NjQ5OTMw.DzcJiQ.fKkR2Ss3ndkbtZXJiBryMyLbU6I
+token= NTM5NTUyNTI0MjY5NjQ5OTMw.DzclxA.8o9_AOFlUbfgsLXjnWhezENDj1s
 owner= 314866432418643969
 prefix= 6
 game= 6play
